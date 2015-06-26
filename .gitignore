@@ -1,0 +1,9 @@
+.RHistory
+.Rhistory
+.Rapp.history
+.Rdata
+Data/*
+Graphs/*
+Output/*
+Spreadsheets/*
+!.gitkeep
